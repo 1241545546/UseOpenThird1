@@ -10,8 +10,6 @@
 
 #import "XLOpenHeader.h"
 
-#import "ReactiveObjC.h"
-
 @implementation XLAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
