@@ -19,6 +19,9 @@
     // Override point for customization after application launch.
     XLOpenHeader* header=XLOpenHeader.new;
     NSLog(@"%@",header);
+    [RACObserve(self, window)subscribeNext:^(id  _Nullable x) {
+        NSLog(@"哈哈");
+    }];
     return YES;
 }
 
