@@ -1,0 +1,6 @@
+framework module Pods_UseOpenThird1_Example {
+  umbrella header "Pods-UseOpenThird1_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

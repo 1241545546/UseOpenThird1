@@ -8,11 +8,15 @@
 
 #import "XLAppDelegate.h"
 
+#import "XLOpenHeader.h"
+
 @implementation XLAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    XLOpenHeader* header=XLOpenHeader.new;
+    NSLog(@"%@",header);
     return YES;
 }
 

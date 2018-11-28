@@ -58,13 +58,13 @@
 		6003F5B9195388D20070C39A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
-		6D19279ED160E79D900A6F13 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		6D19279ED160E79D900A6F13 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		8E9387AA498357BF6318D993 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		8E9387AA498357BF6318D993 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		CB18DEA91D0AE55BE44E5936 /* Pods-UseOpenThird1_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UseOpenThird1_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-UseOpenThird1_Example/Pods-UseOpenThird1_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		DBD170C1551AC15023417182 /* Pods_UseOpenThird1_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_UseOpenThird1_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		DCDF09204909608DB6D53DA5 /* UseOpenThird1.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = UseOpenThird1.podspec; path = ../UseOpenThird1.podspec; sourceTree = "<group>"; };
+		DCDF09204909608DB6D53DA5 /* UseOpenThird1.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = UseOpenThird1.podspec; path = ../UseOpenThird1.podspec; sourceTree = "<group>"; };
 		E7AD3F0968992ED09C314BDE /* Pods_UseOpenThird1_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_UseOpenThird1_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F3BDDAC92E494F08CA44FD5E /* Pods-UseOpenThird1_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UseOpenThird1_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-UseOpenThird1_Example/Pods-UseOpenThird1_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
