@@ -20,6 +20,7 @@
 #import "YYCache.h"
 #import "SDCycleScrollView.h"
 #import "YYText.h"
+#import "IQKeyboardManager.h"
 
 @interface XLOpenHeader : NSObject
 

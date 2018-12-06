@@ -44,6 +44,7 @@
 #import "IQToolbar.h"
 #import "IQUIView+IQKeyboardToolbar.h"
 #import "MBProgressHUD.h"
+#import "MGJRouter.h"
 #import "MJExtension.h"
 #import "MJExtensionConst.h"
 #import "MJFoundation.h"

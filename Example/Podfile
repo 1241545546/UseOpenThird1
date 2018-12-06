@@ -1,7 +1,7 @@
 use_frameworks!
 
 target 'UseOpenThird1_Example' do
-  pod 'UseOpenThird1', :path => '../'
+  pod 'UseOpenThird1', :git => 'https://github.com/1241545546/UseOpenThird1.git'
 
   target 'UseOpenThird1_Tests' do
     inherit! :search_paths

@@ -21,6 +21,7 @@
 #import "SDCycleScrollView.h"
 #import "YYText.h"
 #import "IQKeyboardManager.h"
+#import "MGJRouter.h"
 
 @interface XLOpenHeader : NSObject
 
